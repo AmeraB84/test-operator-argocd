@@ -5,5 +5,5 @@ resources:
 - ns-prod.yml
 namePrefix: prod-
 namespace: argocd-prod
-patches:
+patchesStrategicMerge:
   - operator-group.yml
