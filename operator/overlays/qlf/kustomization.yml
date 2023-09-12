@@ -5,5 +5,5 @@ resources:
 - ns-qlf.yml
 namePrefix: qlf-
 namespace: argocd-qlf
-patchesStrategicMerge:
+patches:
   - operator-group.yml
