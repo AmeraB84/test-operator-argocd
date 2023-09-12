@@ -3,4 +3,5 @@
 	metadata:
 	  name: argocd-operatorgroup
 	spec:
-	  targetNamespaces: ""
+	  targetNamespaces: 
+    
