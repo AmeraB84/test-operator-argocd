@@ -2,4 +2,4 @@ apiVersion: operators.coreos.com/v1
 kind: OperatorGroup
 spec:
 	targetNamespaces:
-	- argocd-prod
+	  - argocd-prod
