@@ -6,4 +6,4 @@ resources:
 namePrefix: qlf-
 namespace: argocd-qlf
 patchesStrategicMerge:
-  - operator-group.yml
+  - ./operator-group.yml

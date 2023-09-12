@@ -6,4 +6,4 @@ resources:
 namePrefix: prod-
 namespace: argocd-prod
 patchesStrategicMerge:
-  - operator-group.yml
+  - ./operator-group.yml
